@@ -2,5 +2,6 @@
 <body>
 <h2><%= "Hello World!" %></h2>
 <h2><%="Bec Bapatla" %></h2>
+<h2><%="Hello Everyone" %></h2>
 </body>
 </html>
