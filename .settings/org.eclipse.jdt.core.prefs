@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+>>>>>>> branch 'main' of https://github.com/chaitanyakumarkgp/Eclipse-Workflow.git
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
 org.eclipse.jdt.core.compiler.compliance=1.8
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error

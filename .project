@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Webapp1</name>
+=======
+	<name>sample-webapp</name>
+>>>>>>> branch 'main' of https://github.com/chaitanyakumarkgp/Eclipse-Workflow.git
 	<comment></comment>
 	<projects>
 	</projects>
